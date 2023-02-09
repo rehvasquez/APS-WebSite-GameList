@@ -1,0 +1,129 @@
+body{
+background-color:ghostwhite;
+text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: cadetblue;
+    border-style: groove;
+    border-color: black;
+    
+}
+li{
+    float:left;
+    text-align: center;
+}
+li a{
+    margin-left: 5px;
+    margin-right: 1px;
+    margin-top: 7px;
+    margin-bottom: 0px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    float: center;
+    color: black;
+    background-color:rgb(185, 202, 238);
+    padding: 12px;
+    border-style: double;
+    border-radius: 5px;
+    font-family: 'Bebas Neue';
+}
+.direita{
+    float: right;
+    text-align: center;
+    display: block;
+}
+h1{
+    color: black;
+    border-style: groove;
+    border-color: cadetblue;
+    margin-left: 450px;
+    margin-right: 450px;
+    text-align: center;
+    font-family: 'Zen Dots',cursive;
+    font-size: x-large;
+}
+img.imagem{
+    width: 300px;
+    margin:50px;
+    border-style: double;
+    background-color: black;
+}
+aside{
+    float:right;
+    font-weight: bold;
+    display:block;
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-style: groove;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+hr{
+    margin-left: 40px;
+    margin-right: 450px;
+}
+.logo{
+    width: 220px;
+    float: left;
+    margin: 0px;
+}
+footer{
+    background-color:cadetblue;
+    border-style: groove;
+    border-color:black;
+    text-align: center;
+}
+.titulos{
+    font-family: 'Krona One',sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+img.jogos{
+    margin: 5px;
+    text-align: center;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    width:200px;
+}
+p{
+    font-family: sans-serif;
+    text-align:center;
+    font-size: 17px;
+    font-weight: normal;
+}
+.CRIADORES{
+    width:200px;
+    margin: 50px;
+}
+fieldset{
+    margin-right: 400px;
+    margin-left: 400px;
+}
+h3{
+    float: left;
+    text-align: center;
+}
+.imagemlista{
+    width:200px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-style: groove;
+    border-color:black;
+}
+.gamelist{
+    text-align:left;
+    margin-left: 40px;
+}
+.stars{
+    width:100px;
+    margin-left: 5px;
+}
